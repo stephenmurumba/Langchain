@@ -118,6 +118,10 @@ dailyPlanner/
 - Add loading and retry states, accessible labels, and a way to export or copy a generated plan.
 - Make the default city configurable rather than hard-coded to Nairobi.
 
+## DEMO
+
+https://langchain-csyj.onrender.com
+
 ## Troubleshooting
 
 - **Missing `PERPLEXITY_API_KEY`:** Add it to `dailyPlanner/.env` and restart Streamlit.
